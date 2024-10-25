@@ -3,7 +3,8 @@ crypto110
 <h1 align="center">Hi 👋, I'm Sadaqat Hussain</h1>
 <h3 align="center">"Innovating Secure Solutions on Decentralized Networks"</h3>
 
-<img align="right" alt="coding"width="400"src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgifer.com%2Fen%2Fgifs%2Fcoding&psig=AOvVaw25VosXpT7NpRFj8VX9HQjT&ust=1729978452026000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCNi_pZS-qokDFQAAAAAdAAAAABAE">
+<img align="right" alt="coding"width="400"src="![image](https://github.com/user-attachments/assets/30a6108d-557c-4af7-8ea4-587012853de4)">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=huss110&label=Profile%20views&color=0e75b6&style=flat" alt="huss110" /> </p>
 
